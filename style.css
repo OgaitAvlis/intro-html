@@ -24,6 +24,12 @@ body:after {
     font-size: 10pt;
 }
 
+p{
+color: red;
+    text-shadow: 3px 3px;
+    text-align: centre;
+}
+
 h1 {
     grid-row-start: 1;
     grid-column-start: 1;
